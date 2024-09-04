@@ -1,13 +1,25 @@
-# 👋 Hi, I'm @benjamincifuentes
+# 👋 Hola, soy @benjamincifuentes
 
-👀 I'm interested in quality assurance, software testing, and continuous improvement of software quality.
+👀 Me interesa el aseguramiento de la calidad, las pruebas de software y la mejora continua de la calidad del software.
 
-🌱 I'm currently learning advanced automation testing techniques using Python, Selenium, and Postman. I'm also exploring new tools and frameworks for efficient bug tracking and resolution.
+🌱 Actualmente estoy aprendiendo técnicas avanzadas de pruebas de automatización utilizando Python, Selenium y Postman. También estoy explorando nuevas herramientas y frameworks para un seguimiento y resolución de errores más eficientes.
 
-💞️ I'm looking to collaborate on open-source projects that focus on QA automation, testing frameworks, and improving software reliability. I'm eager to contribute to projects where I can apply my skills in manual and automated testing to enhance product quality.
+💞️ Estoy buscando colaborar en proyectos de código abierto que se enfoquen en la automatización de QA, frameworks de pruebas y en la mejora de la confiabilidad del software. Estoy ansioso por contribuir a proyectos donde pueda aplicar mis habilidades en pruebas manuales y automatizadas para mejorar la calidad del producto.
 
-📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/benjacifuentes/) or check out my latest projects on [GitHub](https://github.com/benjaamincifuentes).
+📫 Cómo contactarme: Puedes conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/benjacifuentes/) o revisar mis últimos proyectos en [GitHub](https://github.com/benjaamincifuentes).
 
-😀 Pronouns: He/Him
+😀 Pronombres: Él.
 
-⚡ Fun fact: I have a knack for debugging and love finding those tricky bugs that nobody else can see. When I'm not testing, you might find me swimming or practicing yoga!
+⚡ Dato curioso: Tengo un talento especial para la depuración y me encanta encontrar esos errores difíciles que nadie más puede ver. Cuando no estoy haciendo pruebas, ¡puedes encontrarme nadando o practicando yoga!
+
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+    <img decoding="async" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
+    <img decoding="async" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+    <img decoding="async" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+    <img decoding="async" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+</div>
