@@ -1,4 +1,9 @@
-# 👋 Hola, soy @benjamincifuentes
+<div align="center">
+   <img src="https://github.com/benjaamincifuentes/benjaamincifuentes/blob/main/Benjamin%20Cifuentes.png" alt="Banner de Benjamin Cifuentes">
+</div>
+
+
+# 👋 Hola, soy @BenjaminCifuentes
 
 👀 Me interesa el aseguramiento de la calidad, las pruebas de software y la mejora continua de la calidad del software.
 
