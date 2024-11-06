@@ -7,11 +7,11 @@
 
 👀 Me interesa el aseguramiento de la calidad, las pruebas de software y la mejora continua de la calidad del software.
 
-🌱 Actualmente estoy aprendiendo técnicas avanzadas de pruebas de automatización utilizando Python, Selenium y Postman. También estoy explorando nuevas herramientas y frameworks para un seguimiento y resolución de errores más eficientes.
+💼 Como QA Engineer, utilizo Python, Selenium y Postman para diseñar y ejecutar pruebas automatizadas, mejorando la estabilidad y calidad de las aplicaciones. Siempre explorando nuevas herramientas para optimizar la detección y resolución de errores.
 
 💞️ Estoy buscando colaborar en proyectos de código abierto que se enfoquen en la automatización de QA, frameworks de pruebas y en la mejora de la confiabilidad del software. Estoy ansioso por contribuir a proyectos donde pueda aplicar mis habilidades en pruebas manuales y automatizadas para mejorar la calidad del producto.
 
-📫 Cómo contactarme: Puedes conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/benjacifuentes/) o revisar mis últimos proyectos en [GitHub](https://github.com/benjaamincifuentes).
+📫 Cómo contactarme: Puedes conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/benjamincifuentes-qaengineer/) o revisar mis últimos proyectos en [GitHub](https://github.com/benjaamincifuentes).
 
 😀 Pronombres: Él.
 
